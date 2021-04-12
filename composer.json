@@ -34,7 +34,7 @@
         "vanilo/properties": "^2.1",
         "vanilo/payment": "^2.1",
         "konekt/appshell": "^2.1",
-        "konekt/concord": "^1.10"
+        "konekt/concord": "^1.0"
     },
     "autoload": {
         "psr-4": {
